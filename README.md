@@ -21,12 +21,12 @@ Create a shortcut of lofeufpsunlocker.exe.
 Place it in the following directory listed below.
 C:\ProgramData\Microsoft\Windows\Start Menu\Programs\StartUp
 ```
-2. My FPS didn't Unlock, what do i do?
+2. My FPS didn't unlock, what do i do?
 ```
 There are multiple reasons this could happen.
 
-1. A new Roblox update created issues with it, wait for a manual update.
-2. Try running the FPS Unlocer with Administrator (especially if you are using Roblox UWP)
+1. A new Roblox update created issues with it, wait for a manual update. (shouldn't happen, as the whole point of this tool is to avoid updates.)
+2. Try running the FPS Unlocker with Administrator (especially if you are using Roblox UWP)
 
 More reasons might get listed later, those are common issues.
 ```
