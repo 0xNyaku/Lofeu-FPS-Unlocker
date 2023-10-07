@@ -2,13 +2,13 @@
 
 # What is Lofeu FPS Unlocker?
 
-Lofeu FPS Unlocker is a tool that un-caps framerates without the requirement of constant updates, offering a seamless and optimized gaming experience with a single and reliable version.
+Lofeu FPS Unlocker is a tool made from the orignal axstin's base that un-caps framerates without the requirement of constant updates, offering a seamless and optimized gaming experience with a single and reliable version.
 
 # Usage
 
 1. Download the latest release from https://github.com/0xNyaku/Lofeu-FPS-Unlocker/releases
-2. Extract lofeufpsunlocker-x64.zip into a folder
-3. Run rbxfpsunlocker.exe before or after starting Roblox
+2. Extract lofeufpsunlocker.zip into a folder
+3. Run lofeufpsunlocker.exe before or after starting Roblox
 4. Enjoy those beautiful frames 👌 
 
 Alternatively, the original rbxfpsunlocker is available [here](https://github.com/axstin/rbxfpsunlocker/releases).
@@ -30,3 +30,7 @@ There are multiple reasons this could happen.
 
 More reasons might get listed later, those are common issues.
 ```
+
+# Credits
+- Unlocker Base: [axstin's Github Profile](https://github.com/axstin/)
+- Gigachad Human Being: [Lofeu's Discord Profile](https://lookup.guru/343347978880155649)
